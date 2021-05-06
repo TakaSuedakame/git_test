@@ -1,0 +1,1 @@
+This is Takasuedakame's first git project
